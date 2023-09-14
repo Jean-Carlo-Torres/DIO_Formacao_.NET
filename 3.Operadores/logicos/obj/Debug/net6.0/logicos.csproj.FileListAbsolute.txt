@@ -1,0 +1,15 @@
+E:\DIO\.NET\3.Operadores\logicos\bin\Debug\net6.0\logicos.exe
+E:\DIO\.NET\3.Operadores\logicos\bin\Debug\net6.0\logicos.deps.json
+E:\DIO\.NET\3.Operadores\logicos\bin\Debug\net6.0\logicos.runtimeconfig.json
+E:\DIO\.NET\3.Operadores\logicos\bin\Debug\net6.0\logicos.dll
+E:\DIO\.NET\3.Operadores\logicos\bin\Debug\net6.0\logicos.pdb
+E:\DIO\.NET\3.Operadores\logicos\obj\Debug\net6.0\logicos.csproj.AssemblyReference.cache
+E:\DIO\.NET\3.Operadores\logicos\obj\Debug\net6.0\logicos.GeneratedMSBuildEditorConfig.editorconfig
+E:\DIO\.NET\3.Operadores\logicos\obj\Debug\net6.0\logicos.AssemblyInfoInputs.cache
+E:\DIO\.NET\3.Operadores\logicos\obj\Debug\net6.0\logicos.AssemblyInfo.cs
+E:\DIO\.NET\3.Operadores\logicos\obj\Debug\net6.0\logicos.csproj.CoreCompileInputs.cache
+E:\DIO\.NET\3.Operadores\logicos\obj\Debug\net6.0\logicos.dll
+E:\DIO\.NET\3.Operadores\logicos\obj\Debug\net6.0\refint\logicos.dll
+E:\DIO\.NET\3.Operadores\logicos\obj\Debug\net6.0\logicos.pdb
+E:\DIO\.NET\3.Operadores\logicos\obj\Debug\net6.0\logicos.genruntimeconfig.cache
+E:\DIO\.NET\3.Operadores\logicos\obj\Debug\net6.0\ref\logicos.dll

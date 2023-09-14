@@ -1,0 +1,15 @@
+E:\DIO\.NET\3.Operadores\condicional\obj\Debug\net6.0\condicional.csproj.AssemblyReference.cache
+E:\DIO\.NET\3.Operadores\condicional\obj\Debug\net6.0\condicional.GeneratedMSBuildEditorConfig.editorconfig
+E:\DIO\.NET\3.Operadores\condicional\obj\Debug\net6.0\condicional.AssemblyInfoInputs.cache
+E:\DIO\.NET\3.Operadores\condicional\obj\Debug\net6.0\condicional.AssemblyInfo.cs
+E:\DIO\.NET\3.Operadores\condicional\obj\Debug\net6.0\condicional.csproj.CoreCompileInputs.cache
+E:\DIO\.NET\3.Operadores\condicional\bin\Debug\net6.0\condicional.exe
+E:\DIO\.NET\3.Operadores\condicional\bin\Debug\net6.0\condicional.deps.json
+E:\DIO\.NET\3.Operadores\condicional\bin\Debug\net6.0\condicional.runtimeconfig.json
+E:\DIO\.NET\3.Operadores\condicional\bin\Debug\net6.0\condicional.dll
+E:\DIO\.NET\3.Operadores\condicional\bin\Debug\net6.0\condicional.pdb
+E:\DIO\.NET\3.Operadores\condicional\obj\Debug\net6.0\condicional.dll
+E:\DIO\.NET\3.Operadores\condicional\obj\Debug\net6.0\refint\condicional.dll
+E:\DIO\.NET\3.Operadores\condicional\obj\Debug\net6.0\condicional.pdb
+E:\DIO\.NET\3.Operadores\condicional\obj\Debug\net6.0\condicional.genruntimeconfig.cache
+E:\DIO\.NET\3.Operadores\condicional\obj\Debug\net6.0\ref\condicional.dll

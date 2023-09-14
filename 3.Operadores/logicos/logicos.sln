@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "logicos", "logicos.csproj", "{1F317903-0A27-498D-A9D5-DE8BFA560A78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F317903-0A27-498D-A9D5-DE8BFA560A78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F317903-0A27-498D-A9D5-DE8BFA560A78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F317903-0A27-498D-A9D5-DE8BFA560A78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F317903-0A27-498D-A9D5-DE8BFA560A78}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A134DCB-3B77-4802-BCCA-02947C9E1294}
+	EndGlobalSection
+EndGlobal
