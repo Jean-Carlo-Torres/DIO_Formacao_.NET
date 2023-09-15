@@ -1,0 +1,15 @@
+D:\DIO\.NET\7.Arrays\trabalhando_com_listas\bin\Debug\net6.0\trabalhando_com_listas.exe
+D:\DIO\.NET\7.Arrays\trabalhando_com_listas\bin\Debug\net6.0\trabalhando_com_listas.deps.json
+D:\DIO\.NET\7.Arrays\trabalhando_com_listas\bin\Debug\net6.0\trabalhando_com_listas.runtimeconfig.json
+D:\DIO\.NET\7.Arrays\trabalhando_com_listas\bin\Debug\net6.0\trabalhando_com_listas.dll
+D:\DIO\.NET\7.Arrays\trabalhando_com_listas\bin\Debug\net6.0\trabalhando_com_listas.pdb
+D:\DIO\.NET\7.Arrays\trabalhando_com_listas\obj\Debug\net6.0\trabalhando_com_listas.csproj.AssemblyReference.cache
+D:\DIO\.NET\7.Arrays\trabalhando_com_listas\obj\Debug\net6.0\trabalhando_com_listas.GeneratedMSBuildEditorConfig.editorconfig
+D:\DIO\.NET\7.Arrays\trabalhando_com_listas\obj\Debug\net6.0\trabalhando_com_listas.AssemblyInfoInputs.cache
+D:\DIO\.NET\7.Arrays\trabalhando_com_listas\obj\Debug\net6.0\trabalhando_com_listas.AssemblyInfo.cs
+D:\DIO\.NET\7.Arrays\trabalhando_com_listas\obj\Debug\net6.0\trabalhando_com_listas.csproj.CoreCompileInputs.cache
+D:\DIO\.NET\7.Arrays\trabalhando_com_listas\obj\Debug\net6.0\trabalhando_com_listas.dll
+D:\DIO\.NET\7.Arrays\trabalhando_com_listas\obj\Debug\net6.0\refint\trabalhando_com_listas.dll
+D:\DIO\.NET\7.Arrays\trabalhando_com_listas\obj\Debug\net6.0\trabalhando_com_listas.pdb
+D:\DIO\.NET\7.Arrays\trabalhando_com_listas\obj\Debug\net6.0\trabalhando_com_listas.genruntimeconfig.cache
+D:\DIO\.NET\7.Arrays\trabalhando_com_listas\obj\Debug\net6.0\ref\trabalhando_com_listas.dll

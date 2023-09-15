@@ -1,0 +1,15 @@
+D:\DIO\.NET\7.Arrays\trabalhando_com_arrays\bin\Debug\net6.0\trabalhando_com_arrays.exe
+D:\DIO\.NET\7.Arrays\trabalhando_com_arrays\bin\Debug\net6.0\trabalhando_com_arrays.deps.json
+D:\DIO\.NET\7.Arrays\trabalhando_com_arrays\bin\Debug\net6.0\trabalhando_com_arrays.runtimeconfig.json
+D:\DIO\.NET\7.Arrays\trabalhando_com_arrays\bin\Debug\net6.0\trabalhando_com_arrays.dll
+D:\DIO\.NET\7.Arrays\trabalhando_com_arrays\bin\Debug\net6.0\trabalhando_com_arrays.pdb
+D:\DIO\.NET\7.Arrays\trabalhando_com_arrays\obj\Debug\net6.0\trabalhando_com_arrays.csproj.AssemblyReference.cache
+D:\DIO\.NET\7.Arrays\trabalhando_com_arrays\obj\Debug\net6.0\trabalhando_com_arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\DIO\.NET\7.Arrays\trabalhando_com_arrays\obj\Debug\net6.0\trabalhando_com_arrays.AssemblyInfoInputs.cache
+D:\DIO\.NET\7.Arrays\trabalhando_com_arrays\obj\Debug\net6.0\trabalhando_com_arrays.AssemblyInfo.cs
+D:\DIO\.NET\7.Arrays\trabalhando_com_arrays\obj\Debug\net6.0\trabalhando_com_arrays.csproj.CoreCompileInputs.cache
+D:\DIO\.NET\7.Arrays\trabalhando_com_arrays\obj\Debug\net6.0\trabalhando_com_arrays.dll
+D:\DIO\.NET\7.Arrays\trabalhando_com_arrays\obj\Debug\net6.0\refint\trabalhando_com_arrays.dll
+D:\DIO\.NET\7.Arrays\trabalhando_com_arrays\obj\Debug\net6.0\trabalhando_com_arrays.pdb
+D:\DIO\.NET\7.Arrays\trabalhando_com_arrays\obj\Debug\net6.0\trabalhando_com_arrays.genruntimeconfig.cache
+D:\DIO\.NET\7.Arrays\trabalhando_com_arrays\obj\Debug\net6.0\ref\trabalhando_com_arrays.dll
