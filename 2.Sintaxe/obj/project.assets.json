@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\jeans\\.nuget\\packages\\": {}
+    "C:\\Users\\autologon\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DIO\\.NET\\2.Sintaxe\\2.Sintaxe.csproj",
+      "projectUniqueName": "e:\\DIO\\.NET\\2.Sintaxe\\2.Sintaxe.csproj",
       "projectName": "2.Sintaxe",
-      "projectPath": "D:\\DIO\\.NET\\2.Sintaxe\\2.Sintaxe.csproj",
-      "packagesPath": "C:\\Users\\jeans\\.nuget\\packages\\",
-      "outputPath": "D:\\DIO\\.NET\\2.Sintaxe\\obj\\",
+      "projectPath": "e:\\DIO\\.NET\\2.Sintaxe\\2.Sintaxe.csproj",
+      "packagesPath": "C:\\Users\\autologon\\.nuget\\packages\\",
+      "outputPath": "e:\\DIO\\.NET\\2.Sintaxe\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\jeans\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\autologon\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"

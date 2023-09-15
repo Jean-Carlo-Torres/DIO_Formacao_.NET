@@ -1,0 +1,15 @@
+D:\DIO\.NET\5.Estrutura_de_repetição\WHILE\bin\Debug\net6.0\WHILE.exe
+D:\DIO\.NET\5.Estrutura_de_repetição\WHILE\bin\Debug\net6.0\WHILE.deps.json
+D:\DIO\.NET\5.Estrutura_de_repetição\WHILE\bin\Debug\net6.0\WHILE.runtimeconfig.json
+D:\DIO\.NET\5.Estrutura_de_repetição\WHILE\bin\Debug\net6.0\WHILE.dll
+D:\DIO\.NET\5.Estrutura_de_repetição\WHILE\bin\Debug\net6.0\WHILE.pdb
+D:\DIO\.NET\5.Estrutura_de_repetição\WHILE\obj\Debug\net6.0\WHILE.csproj.AssemblyReference.cache
+D:\DIO\.NET\5.Estrutura_de_repetição\WHILE\obj\Debug\net6.0\WHILE.GeneratedMSBuildEditorConfig.editorconfig
+D:\DIO\.NET\5.Estrutura_de_repetição\WHILE\obj\Debug\net6.0\WHILE.AssemblyInfoInputs.cache
+D:\DIO\.NET\5.Estrutura_de_repetição\WHILE\obj\Debug\net6.0\WHILE.AssemblyInfo.cs
+D:\DIO\.NET\5.Estrutura_de_repetição\WHILE\obj\Debug\net6.0\WHILE.csproj.CoreCompileInputs.cache
+D:\DIO\.NET\5.Estrutura_de_repetição\WHILE\obj\Debug\net6.0\WHILE.dll
+D:\DIO\.NET\5.Estrutura_de_repetição\WHILE\obj\Debug\net6.0\refint\WHILE.dll
+D:\DIO\.NET\5.Estrutura_de_repetição\WHILE\obj\Debug\net6.0\WHILE.pdb
+D:\DIO\.NET\5.Estrutura_de_repetição\WHILE\obj\Debug\net6.0\WHILE.genruntimeconfig.cache
+D:\DIO\.NET\5.Estrutura_de_repetição\WHILE\obj\Debug\net6.0\ref\WHILE.dll

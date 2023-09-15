@@ -1,0 +1,15 @@
+E:\DIO\.NET\5.Estrutura_de_repetição\MENU_INTERATIVO\bin\Debug\net6.0\MENU_INTERATIVO.exe
+E:\DIO\.NET\5.Estrutura_de_repetição\MENU_INTERATIVO\bin\Debug\net6.0\MENU_INTERATIVO.deps.json
+E:\DIO\.NET\5.Estrutura_de_repetição\MENU_INTERATIVO\bin\Debug\net6.0\MENU_INTERATIVO.runtimeconfig.json
+E:\DIO\.NET\5.Estrutura_de_repetição\MENU_INTERATIVO\bin\Debug\net6.0\MENU_INTERATIVO.dll
+E:\DIO\.NET\5.Estrutura_de_repetição\MENU_INTERATIVO\bin\Debug\net6.0\MENU_INTERATIVO.pdb
+E:\DIO\.NET\5.Estrutura_de_repetição\MENU_INTERATIVO\obj\Debug\net6.0\MENU_INTERATIVO.csproj.AssemblyReference.cache
+E:\DIO\.NET\5.Estrutura_de_repetição\MENU_INTERATIVO\obj\Debug\net6.0\MENU_INTERATIVO.GeneratedMSBuildEditorConfig.editorconfig
+E:\DIO\.NET\5.Estrutura_de_repetição\MENU_INTERATIVO\obj\Debug\net6.0\MENU_INTERATIVO.AssemblyInfoInputs.cache
+E:\DIO\.NET\5.Estrutura_de_repetição\MENU_INTERATIVO\obj\Debug\net6.0\MENU_INTERATIVO.AssemblyInfo.cs
+E:\DIO\.NET\5.Estrutura_de_repetição\MENU_INTERATIVO\obj\Debug\net6.0\MENU_INTERATIVO.csproj.CoreCompileInputs.cache
+E:\DIO\.NET\5.Estrutura_de_repetição\MENU_INTERATIVO\obj\Debug\net6.0\MENU_INTERATIVO.dll
+E:\DIO\.NET\5.Estrutura_de_repetição\MENU_INTERATIVO\obj\Debug\net6.0\refint\MENU_INTERATIVO.dll
+E:\DIO\.NET\5.Estrutura_de_repetição\MENU_INTERATIVO\obj\Debug\net6.0\MENU_INTERATIVO.pdb
+E:\DIO\.NET\5.Estrutura_de_repetição\MENU_INTERATIVO\obj\Debug\net6.0\MENU_INTERATIVO.genruntimeconfig.cache
+E:\DIO\.NET\5.Estrutura_de_repetição\MENU_INTERATIVO\obj\Debug\net6.0\ref\MENU_INTERATIVO.dll

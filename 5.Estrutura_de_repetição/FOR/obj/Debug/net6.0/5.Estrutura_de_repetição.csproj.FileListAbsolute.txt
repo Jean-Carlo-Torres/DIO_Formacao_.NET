@@ -1,0 +1,15 @@
+D:\DIO\.NET\5.Estrutura_de_repetição\bin\Debug\net6.0\5.Estrutura_de_repetição.exe
+D:\DIO\.NET\5.Estrutura_de_repetição\bin\Debug\net6.0\5.Estrutura_de_repetição.deps.json
+D:\DIO\.NET\5.Estrutura_de_repetição\bin\Debug\net6.0\5.Estrutura_de_repetição.runtimeconfig.json
+D:\DIO\.NET\5.Estrutura_de_repetição\bin\Debug\net6.0\5.Estrutura_de_repetição.dll
+D:\DIO\.NET\5.Estrutura_de_repetição\bin\Debug\net6.0\5.Estrutura_de_repetição.pdb
+D:\DIO\.NET\5.Estrutura_de_repetição\obj\Debug\net6.0\5.Estrutura_de_repetição.csproj.AssemblyReference.cache
+D:\DIO\.NET\5.Estrutura_de_repetição\obj\Debug\net6.0\5.Estrutura_de_repetição.GeneratedMSBuildEditorConfig.editorconfig
+D:\DIO\.NET\5.Estrutura_de_repetição\obj\Debug\net6.0\5.Estrutura_de_repetição.AssemblyInfoInputs.cache
+D:\DIO\.NET\5.Estrutura_de_repetição\obj\Debug\net6.0\5.Estrutura_de_repetição.AssemblyInfo.cs
+D:\DIO\.NET\5.Estrutura_de_repetição\obj\Debug\net6.0\5.Estrutura_de_repetição.csproj.CoreCompileInputs.cache
+D:\DIO\.NET\5.Estrutura_de_repetição\obj\Debug\net6.0\5.Estrutura_de_repetição.dll
+D:\DIO\.NET\5.Estrutura_de_repetição\obj\Debug\net6.0\refint\5.Estrutura_de_repetição.dll
+D:\DIO\.NET\5.Estrutura_de_repetição\obj\Debug\net6.0\5.Estrutura_de_repetição.pdb
+D:\DIO\.NET\5.Estrutura_de_repetição\obj\Debug\net6.0\5.Estrutura_de_repetição.genruntimeconfig.cache
+D:\DIO\.NET\5.Estrutura_de_repetição\obj\Debug\net6.0\ref\5.Estrutura_de_repetição.dll
