@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "d:\\DIO\\.NET\\7.Arrays\\trabalhando_com_listas\\trabalhando_com_listas.csproj": {}
+    "E:\\DIO\\.NET\\9.Exceções_e_Coleções\\9.Exceções_e_Coleções.csproj": {}
   },
   "projects": {
-    "d:\\DIO\\.NET\\7.Arrays\\trabalhando_com_listas\\trabalhando_com_listas.csproj": {
+    "E:\\DIO\\.NET\\9.Exceções_e_Coleções\\9.Exceções_e_Coleções.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\DIO\\.NET\\7.Arrays\\trabalhando_com_listas\\trabalhando_com_listas.csproj",
-        "projectName": "trabalhando_com_listas",
-        "projectPath": "d:\\DIO\\.NET\\7.Arrays\\trabalhando_com_listas\\trabalhando_com_listas.csproj",
-        "packagesPath": "C:\\Users\\jeans\\.nuget\\packages\\",
-        "outputPath": "d:\\DIO\\.NET\\7.Arrays\\trabalhando_com_listas\\obj\\",
+        "projectUniqueName": "E:\\DIO\\.NET\\9.Exceções_e_Coleções\\9.Exceções_e_Coleções.csproj",
+        "projectName": "9.Exceções_e_Coleções",
+        "projectPath": "E:\\DIO\\.NET\\9.Exceções_e_Coleções\\9.Exceções_e_Coleções.csproj",
+        "packagesPath": "C:\\Users\\autologon\\.nuget\\packages\\",
+        "outputPath": "E:\\DIO\\.NET\\9.Exceções_e_Coleções\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\jeans\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\autologon\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
