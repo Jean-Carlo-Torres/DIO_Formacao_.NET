@@ -1,0 +1,15 @@
+E:\DIO\.NET\9.Exceções_e_Coleções\Dictionary\obj\Debug\net6.0\Dictionary.csproj.AssemblyReference.cache
+E:\DIO\.NET\9.Exceções_e_Coleções\Dictionary\obj\Debug\net6.0\Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+E:\DIO\.NET\9.Exceções_e_Coleções\Dictionary\obj\Debug\net6.0\Dictionary.AssemblyInfoInputs.cache
+E:\DIO\.NET\9.Exceções_e_Coleções\Dictionary\obj\Debug\net6.0\Dictionary.AssemblyInfo.cs
+E:\DIO\.NET\9.Exceções_e_Coleções\Dictionary\obj\Debug\net6.0\Dictionary.csproj.CoreCompileInputs.cache
+E:\DIO\.NET\9.Exceções_e_Coleções\Dictionary\bin\Debug\net6.0\Dictionary.exe
+E:\DIO\.NET\9.Exceções_e_Coleções\Dictionary\bin\Debug\net6.0\Dictionary.deps.json
+E:\DIO\.NET\9.Exceções_e_Coleções\Dictionary\bin\Debug\net6.0\Dictionary.runtimeconfig.json
+E:\DIO\.NET\9.Exceções_e_Coleções\Dictionary\bin\Debug\net6.0\Dictionary.dll
+E:\DIO\.NET\9.Exceções_e_Coleções\Dictionary\bin\Debug\net6.0\Dictionary.pdb
+E:\DIO\.NET\9.Exceções_e_Coleções\Dictionary\obj\Debug\net6.0\Dictionary.dll
+E:\DIO\.NET\9.Exceções_e_Coleções\Dictionary\obj\Debug\net6.0\refint\Dictionary.dll
+E:\DIO\.NET\9.Exceções_e_Coleções\Dictionary\obj\Debug\net6.0\Dictionary.pdb
+E:\DIO\.NET\9.Exceções_e_Coleções\Dictionary\obj\Debug\net6.0\Dictionary.genruntimeconfig.cache
+E:\DIO\.NET\9.Exceções_e_Coleções\Dictionary\obj\Debug\net6.0\ref\Dictionary.dll

@@ -1,0 +1,15 @@
+E:\DIO\.NET\9.Exceções_e_Coleções\Fila\bin\Debug\net6.0\Fila.exe
+E:\DIO\.NET\9.Exceções_e_Coleções\Fila\bin\Debug\net6.0\Fila.deps.json
+E:\DIO\.NET\9.Exceções_e_Coleções\Fila\bin\Debug\net6.0\Fila.runtimeconfig.json
+E:\DIO\.NET\9.Exceções_e_Coleções\Fila\bin\Debug\net6.0\Fila.dll
+E:\DIO\.NET\9.Exceções_e_Coleções\Fila\bin\Debug\net6.0\Fila.pdb
+E:\DIO\.NET\9.Exceções_e_Coleções\Fila\obj\Debug\net6.0\Fila.csproj.AssemblyReference.cache
+E:\DIO\.NET\9.Exceções_e_Coleções\Fila\obj\Debug\net6.0\Fila.GeneratedMSBuildEditorConfig.editorconfig
+E:\DIO\.NET\9.Exceções_e_Coleções\Fila\obj\Debug\net6.0\Fila.AssemblyInfoInputs.cache
+E:\DIO\.NET\9.Exceções_e_Coleções\Fila\obj\Debug\net6.0\Fila.AssemblyInfo.cs
+E:\DIO\.NET\9.Exceções_e_Coleções\Fila\obj\Debug\net6.0\Fila.csproj.CoreCompileInputs.cache
+E:\DIO\.NET\9.Exceções_e_Coleções\Fila\obj\Debug\net6.0\Fila.dll
+E:\DIO\.NET\9.Exceções_e_Coleções\Fila\obj\Debug\net6.0\refint\Fila.dll
+E:\DIO\.NET\9.Exceções_e_Coleções\Fila\obj\Debug\net6.0\Fila.pdb
+E:\DIO\.NET\9.Exceções_e_Coleções\Fila\obj\Debug\net6.0\Fila.genruntimeconfig.cache
+E:\DIO\.NET\9.Exceções_e_Coleções\Fila\obj\Debug\net6.0\ref\Fila.dll
