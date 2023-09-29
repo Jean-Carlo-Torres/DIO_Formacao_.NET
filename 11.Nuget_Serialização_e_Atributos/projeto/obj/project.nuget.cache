@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "V1i2hHxoCk4bCwPytZB022c1bz9eUMp9VMEFZEfP16RDdYIooVlR3LQhH86uvBWJhvWW4ubO84QgcrB+WHXKyw==",
+  "success": true,
+  "projectFilePath": "D:\\DIO\\.NET\\11.Nuget_Serialização_e_Atributos\\projeto\\projeto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jeans\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

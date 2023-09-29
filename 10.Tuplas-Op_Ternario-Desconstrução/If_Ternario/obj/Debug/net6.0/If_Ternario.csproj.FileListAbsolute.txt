@@ -1,0 +1,15 @@
+E:\DIO\.NET\10.Tuplas-Op_Ternario-Desconstrução\If_Ternario\bin\Debug\net6.0\If_Ternario.exe
+E:\DIO\.NET\10.Tuplas-Op_Ternario-Desconstrução\If_Ternario\bin\Debug\net6.0\If_Ternario.deps.json
+E:\DIO\.NET\10.Tuplas-Op_Ternario-Desconstrução\If_Ternario\bin\Debug\net6.0\If_Ternario.runtimeconfig.json
+E:\DIO\.NET\10.Tuplas-Op_Ternario-Desconstrução\If_Ternario\bin\Debug\net6.0\If_Ternario.dll
+E:\DIO\.NET\10.Tuplas-Op_Ternario-Desconstrução\If_Ternario\bin\Debug\net6.0\If_Ternario.pdb
+E:\DIO\.NET\10.Tuplas-Op_Ternario-Desconstrução\If_Ternario\obj\Debug\net6.0\If_Ternario.csproj.AssemblyReference.cache
+E:\DIO\.NET\10.Tuplas-Op_Ternario-Desconstrução\If_Ternario\obj\Debug\net6.0\If_Ternario.GeneratedMSBuildEditorConfig.editorconfig
+E:\DIO\.NET\10.Tuplas-Op_Ternario-Desconstrução\If_Ternario\obj\Debug\net6.0\If_Ternario.AssemblyInfoInputs.cache
+E:\DIO\.NET\10.Tuplas-Op_Ternario-Desconstrução\If_Ternario\obj\Debug\net6.0\If_Ternario.AssemblyInfo.cs
+E:\DIO\.NET\10.Tuplas-Op_Ternario-Desconstrução\If_Ternario\obj\Debug\net6.0\If_Ternario.csproj.CoreCompileInputs.cache
+E:\DIO\.NET\10.Tuplas-Op_Ternario-Desconstrução\If_Ternario\obj\Debug\net6.0\If_Ternario.dll
+E:\DIO\.NET\10.Tuplas-Op_Ternario-Desconstrução\If_Ternario\obj\Debug\net6.0\refint\If_Ternario.dll
+E:\DIO\.NET\10.Tuplas-Op_Ternario-Desconstrução\If_Ternario\obj\Debug\net6.0\If_Ternario.pdb
+E:\DIO\.NET\10.Tuplas-Op_Ternario-Desconstrução\If_Ternario\obj\Debug\net6.0\If_Ternario.genruntimeconfig.cache
+E:\DIO\.NET\10.Tuplas-Op_Ternario-Desconstrução\If_Ternario\obj\Debug\net6.0\ref\If_Ternario.dll

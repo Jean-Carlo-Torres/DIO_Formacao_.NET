@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "trabalhando_com_pacotes/1.0.0": {
+        "runtime": {
+          "trabalhando_com_pacotes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "trabalhando_com_pacotes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+D:\DIO\.NET\10.Tuplas-Op_Ternario-Desconstrução\Tuplas\bin\Debug\net6.0\Tuplas.exe
+D:\DIO\.NET\10.Tuplas-Op_Ternario-Desconstrução\Tuplas\bin\Debug\net6.0\Tuplas.deps.json
+D:\DIO\.NET\10.Tuplas-Op_Ternario-Desconstrução\Tuplas\bin\Debug\net6.0\Tuplas.runtimeconfig.json
+D:\DIO\.NET\10.Tuplas-Op_Ternario-Desconstrução\Tuplas\bin\Debug\net6.0\Tuplas.dll
+D:\DIO\.NET\10.Tuplas-Op_Ternario-Desconstrução\Tuplas\bin\Debug\net6.0\Tuplas.pdb
+D:\DIO\.NET\10.Tuplas-Op_Ternario-Desconstrução\Tuplas\obj\Debug\net6.0\Tuplas.csproj.AssemblyReference.cache
+D:\DIO\.NET\10.Tuplas-Op_Ternario-Desconstrução\Tuplas\obj\Debug\net6.0\Tuplas.GeneratedMSBuildEditorConfig.editorconfig
+D:\DIO\.NET\10.Tuplas-Op_Ternario-Desconstrução\Tuplas\obj\Debug\net6.0\Tuplas.AssemblyInfoInputs.cache
+D:\DIO\.NET\10.Tuplas-Op_Ternario-Desconstrução\Tuplas\obj\Debug\net6.0\Tuplas.AssemblyInfo.cs
+D:\DIO\.NET\10.Tuplas-Op_Ternario-Desconstrução\Tuplas\obj\Debug\net6.0\Tuplas.csproj.CoreCompileInputs.cache
+D:\DIO\.NET\10.Tuplas-Op_Ternario-Desconstrução\Tuplas\obj\Debug\net6.0\Tuplas.dll
+D:\DIO\.NET\10.Tuplas-Op_Ternario-Desconstrução\Tuplas\obj\Debug\net6.0\refint\Tuplas.dll
+D:\DIO\.NET\10.Tuplas-Op_Ternario-Desconstrução\Tuplas\obj\Debug\net6.0\Tuplas.pdb
+D:\DIO\.NET\10.Tuplas-Op_Ternario-Desconstrução\Tuplas\obj\Debug\net6.0\Tuplas.genruntimeconfig.cache
+D:\DIO\.NET\10.Tuplas-Op_Ternario-Desconstrução\Tuplas\obj\Debug\net6.0\ref\Tuplas.dll

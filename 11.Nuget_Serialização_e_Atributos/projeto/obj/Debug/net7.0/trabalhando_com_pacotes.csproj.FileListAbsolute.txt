@@ -1,0 +1,14 @@
+E:\DIO\.NET\11.Nuget_Serialização_e_Atributos\trabalhando_com_pacotes\bin\Debug\net7.0\trabalhando_com_pacotes.exe
+E:\DIO\.NET\11.Nuget_Serialização_e_Atributos\trabalhando_com_pacotes\bin\Debug\net7.0\trabalhando_com_pacotes.deps.json
+E:\DIO\.NET\11.Nuget_Serialização_e_Atributos\trabalhando_com_pacotes\bin\Debug\net7.0\trabalhando_com_pacotes.runtimeconfig.json
+E:\DIO\.NET\11.Nuget_Serialização_e_Atributos\trabalhando_com_pacotes\bin\Debug\net7.0\trabalhando_com_pacotes.dll
+E:\DIO\.NET\11.Nuget_Serialização_e_Atributos\trabalhando_com_pacotes\bin\Debug\net7.0\trabalhando_com_pacotes.pdb
+E:\DIO\.NET\11.Nuget_Serialização_e_Atributos\trabalhando_com_pacotes\obj\Debug\net7.0\trabalhando_com_pacotes.GeneratedMSBuildEditorConfig.editorconfig
+E:\DIO\.NET\11.Nuget_Serialização_e_Atributos\trabalhando_com_pacotes\obj\Debug\net7.0\trabalhando_com_pacotes.AssemblyInfoInputs.cache
+E:\DIO\.NET\11.Nuget_Serialização_e_Atributos\trabalhando_com_pacotes\obj\Debug\net7.0\trabalhando_com_pacotes.AssemblyInfo.cs
+E:\DIO\.NET\11.Nuget_Serialização_e_Atributos\trabalhando_com_pacotes\obj\Debug\net7.0\trabalhando_com_pacotes.csproj.CoreCompileInputs.cache
+E:\DIO\.NET\11.Nuget_Serialização_e_Atributos\trabalhando_com_pacotes\obj\Debug\net7.0\trabalhando_com_pacotes.dll
+E:\DIO\.NET\11.Nuget_Serialização_e_Atributos\trabalhando_com_pacotes\obj\Debug\net7.0\refint\trabalhando_com_pacotes.dll
+E:\DIO\.NET\11.Nuget_Serialização_e_Atributos\trabalhando_com_pacotes\obj\Debug\net7.0\trabalhando_com_pacotes.pdb
+E:\DIO\.NET\11.Nuget_Serialização_e_Atributos\trabalhando_com_pacotes\obj\Debug\net7.0\trabalhando_com_pacotes.genruntimeconfig.cache
+E:\DIO\.NET\11.Nuget_Serialização_e_Atributos\trabalhando_com_pacotes\obj\Debug\net7.0\ref\trabalhando_com_pacotes.dll
