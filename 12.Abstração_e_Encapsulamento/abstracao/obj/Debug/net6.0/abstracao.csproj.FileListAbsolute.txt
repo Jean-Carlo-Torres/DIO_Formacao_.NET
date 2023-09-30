@@ -1,0 +1,15 @@
+D:\DIO\.NET\12.Abstração_e_Encapsulamento\abstracao\bin\Debug\net6.0\abstracao.exe
+D:\DIO\.NET\12.Abstração_e_Encapsulamento\abstracao\bin\Debug\net6.0\abstracao.deps.json
+D:\DIO\.NET\12.Abstração_e_Encapsulamento\abstracao\bin\Debug\net6.0\abstracao.runtimeconfig.json
+D:\DIO\.NET\12.Abstração_e_Encapsulamento\abstracao\bin\Debug\net6.0\abstracao.dll
+D:\DIO\.NET\12.Abstração_e_Encapsulamento\abstracao\bin\Debug\net6.0\abstracao.pdb
+D:\DIO\.NET\12.Abstração_e_Encapsulamento\abstracao\obj\Debug\net6.0\abstracao.csproj.AssemblyReference.cache
+D:\DIO\.NET\12.Abstração_e_Encapsulamento\abstracao\obj\Debug\net6.0\abstracao.GeneratedMSBuildEditorConfig.editorconfig
+D:\DIO\.NET\12.Abstração_e_Encapsulamento\abstracao\obj\Debug\net6.0\abstracao.AssemblyInfoInputs.cache
+D:\DIO\.NET\12.Abstração_e_Encapsulamento\abstracao\obj\Debug\net6.0\abstracao.AssemblyInfo.cs
+D:\DIO\.NET\12.Abstração_e_Encapsulamento\abstracao\obj\Debug\net6.0\abstracao.csproj.CoreCompileInputs.cache
+D:\DIO\.NET\12.Abstração_e_Encapsulamento\abstracao\obj\Debug\net6.0\abstracao.dll
+D:\DIO\.NET\12.Abstração_e_Encapsulamento\abstracao\obj\Debug\net6.0\refint\abstracao.dll
+D:\DIO\.NET\12.Abstração_e_Encapsulamento\abstracao\obj\Debug\net6.0\abstracao.pdb
+D:\DIO\.NET\12.Abstração_e_Encapsulamento\abstracao\obj\Debug\net6.0\abstracao.genruntimeconfig.cache
+D:\DIO\.NET\12.Abstração_e_Encapsulamento\abstracao\obj\Debug\net6.0\ref\abstracao.dll

@@ -1,0 +1,15 @@
+D:\DIO\.NET\13.Herança_e_Polimorfismo\heranca\bin\Debug\net6.0\heranca.exe
+D:\DIO\.NET\13.Herança_e_Polimorfismo\heranca\bin\Debug\net6.0\heranca.deps.json
+D:\DIO\.NET\13.Herança_e_Polimorfismo\heranca\bin\Debug\net6.0\heranca.runtimeconfig.json
+D:\DIO\.NET\13.Herança_e_Polimorfismo\heranca\bin\Debug\net6.0\heranca.dll
+D:\DIO\.NET\13.Herança_e_Polimorfismo\heranca\bin\Debug\net6.0\heranca.pdb
+D:\DIO\.NET\13.Herança_e_Polimorfismo\heranca\obj\Debug\net6.0\heranca.csproj.AssemblyReference.cache
+D:\DIO\.NET\13.Herança_e_Polimorfismo\heranca\obj\Debug\net6.0\heranca.GeneratedMSBuildEditorConfig.editorconfig
+D:\DIO\.NET\13.Herança_e_Polimorfismo\heranca\obj\Debug\net6.0\heranca.AssemblyInfoInputs.cache
+D:\DIO\.NET\13.Herança_e_Polimorfismo\heranca\obj\Debug\net6.0\heranca.AssemblyInfo.cs
+D:\DIO\.NET\13.Herança_e_Polimorfismo\heranca\obj\Debug\net6.0\heranca.csproj.CoreCompileInputs.cache
+D:\DIO\.NET\13.Herança_e_Polimorfismo\heranca\obj\Debug\net6.0\heranca.dll
+D:\DIO\.NET\13.Herança_e_Polimorfismo\heranca\obj\Debug\net6.0\refint\heranca.dll
+D:\DIO\.NET\13.Herança_e_Polimorfismo\heranca\obj\Debug\net6.0\heranca.pdb
+D:\DIO\.NET\13.Herança_e_Polimorfismo\heranca\obj\Debug\net6.0\heranca.genruntimeconfig.cache
+D:\DIO\.NET\13.Herança_e_Polimorfismo\heranca\obj\Debug\net6.0\ref\heranca.dll

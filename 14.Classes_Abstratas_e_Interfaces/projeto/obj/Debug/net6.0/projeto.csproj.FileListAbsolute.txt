@@ -1,0 +1,15 @@
+D:\DIO\.NET\14.Classes_Abstratas_e_Interfaces\projeto\bin\Debug\net6.0\projeto.exe
+D:\DIO\.NET\14.Classes_Abstratas_e_Interfaces\projeto\bin\Debug\net6.0\projeto.deps.json
+D:\DIO\.NET\14.Classes_Abstratas_e_Interfaces\projeto\bin\Debug\net6.0\projeto.runtimeconfig.json
+D:\DIO\.NET\14.Classes_Abstratas_e_Interfaces\projeto\bin\Debug\net6.0\projeto.dll
+D:\DIO\.NET\14.Classes_Abstratas_e_Interfaces\projeto\bin\Debug\net6.0\projeto.pdb
+D:\DIO\.NET\14.Classes_Abstratas_e_Interfaces\projeto\obj\Debug\net6.0\projeto.csproj.AssemblyReference.cache
+D:\DIO\.NET\14.Classes_Abstratas_e_Interfaces\projeto\obj\Debug\net6.0\projeto.GeneratedMSBuildEditorConfig.editorconfig
+D:\DIO\.NET\14.Classes_Abstratas_e_Interfaces\projeto\obj\Debug\net6.0\projeto.AssemblyInfoInputs.cache
+D:\DIO\.NET\14.Classes_Abstratas_e_Interfaces\projeto\obj\Debug\net6.0\projeto.AssemblyInfo.cs
+D:\DIO\.NET\14.Classes_Abstratas_e_Interfaces\projeto\obj\Debug\net6.0\projeto.csproj.CoreCompileInputs.cache
+D:\DIO\.NET\14.Classes_Abstratas_e_Interfaces\projeto\obj\Debug\net6.0\projeto.dll
+D:\DIO\.NET\14.Classes_Abstratas_e_Interfaces\projeto\obj\Debug\net6.0\refint\projeto.dll
+D:\DIO\.NET\14.Classes_Abstratas_e_Interfaces\projeto\obj\Debug\net6.0\projeto.pdb
+D:\DIO\.NET\14.Classes_Abstratas_e_Interfaces\projeto\obj\Debug\net6.0\projeto.genruntimeconfig.cache
+D:\DIO\.NET\14.Classes_Abstratas_e_Interfaces\projeto\obj\Debug\net6.0\ref\projeto.dll
