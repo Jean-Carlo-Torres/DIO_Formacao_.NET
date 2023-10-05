@@ -1,6 +1,13 @@
+using _16.Modulo_API.Context;
+using Microsoft.EntityFrameworkCore;
+// using MySql.EntityFrameworkCore.Extensions;
+// using Pomelo.EntityFrameworkCore.MySql;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+builder.Services.AddDbContext<AgendaContext>(options =>
+    options.UseMySQL(builder.Configuration.GetConnectionString("ConexaoPadrao")));
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle

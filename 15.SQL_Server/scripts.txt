@@ -1,0 +1,1 @@
+https://github.com/digitalinnovationone/trilha-net-banco-de-dados/blob/main/Scripts/2%20-%20Tabela%20Produtos.sql
