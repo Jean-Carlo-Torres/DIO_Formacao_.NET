@@ -1,0 +1,16 @@
+[
+  {
+    "Id": 1,
+    "Nome_Produto": "Notebook",
+    "Preco": 2500.00,
+    "DataVenda": "2023-09-28T17:37:05.1247856-03:00",
+    "Desconto": null
+  },
+  {
+    "Id": 2,
+    "Nome_Produto": "Mouse",
+    "Preco": 100.00,
+    "DataVenda": "2023-09-28T17:37:05.1247856-03:00",
+    "Desconto": 10
+  }
+]
